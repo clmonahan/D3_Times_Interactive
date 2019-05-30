@@ -2,9 +2,6 @@
 
 ## Goal
 Create a dynamic, interactive chart that uses a variety of data from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System to look for correlations between health risk factors.
-<br>
-![] (D3_Times/obesity-v-age.png)
-<br>
 
 ## Data Sources
 * 2014 ACS 1-year estimates: https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml
@@ -31,10 +28,10 @@ The graph should be interactive so that the user may select any of the three var
 
 ## Conclusions
 There appears to be a negative correlation between poverty levels the percentage of the population with healthcare coverage. 
-It also appears that people living in states with lower income levels are more likely to be obese and to smoke. 
-<br>
+<br><br>It also appears that people living in states with lower income levels are more likely to be obese and to smoke. 
+<br><br>
 States with a younger population have lower rates of smokers, which is not surprising given that there is a nationwide ban on smoking under the age of 18. 
-Similarly, states with a young population are less likely to have high rates of healthcare coverage given that many states provide healthcare to adults above a certain age.
+<br><br>Similarly, states with a young population are less likely to have high rates of healthcare coverage given that many states provide healthcare to adults above a certain age.
 These two correlations show how impactful government regulations can be on the well-being of citizens.
-<br>
+<br><br>
 The relationship between age and obesity is less clear, and it is possible that states with obese adults are more likely to also be states with obese children. 
