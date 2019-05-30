@@ -3,10 +3,8 @@
 ## Goal
 Create a dynamic, interactive chart that uses a variety of data from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System to look for correlations between health risk factors.
 <br>
-![] (https://github.com/clmonahan/dynamic-poverty-chart/blob/master/D3_Times/obesity-v-age.png)
-![] (https://github.com/clmonahan/dynamic-poverty-chart/blob/master/D3_Times/obesity-v-poverty.png)
-![] (https://github.com/clmonahan/dynamic-poverty-chart/blob/master/D3_Times/smoking-v-income.png)
-
+![] (D3_Times/obesity-v-age.png)
+<br>
 
 ## Data Sources
 * 2014 ACS 1-year estimates: https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml
