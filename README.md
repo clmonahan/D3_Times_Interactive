@@ -1,6 +1,7 @@
 # Data Journalism & D3: Dynamic Poverty Chart
 
 ![]
+
 (https://github.com/clmonahan/dynamic-poverty-chart/blob/master/newsreel.gif)
 
 ## Background
