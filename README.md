@@ -1,4 +1,12 @@
-# Dynamic Poverty Chart
+# Data Journalism & D3: Dynamic Poverty Chart
+
+![]
+(https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
+
+## Background
+Analyze the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings about the health risks facing particular demographics. Sift through information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
+
+The data set is based on 2014 ACS 1-year estimates: https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml, which includes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
 
 ## Goal
 Create a dynamic, interactive chart that uses a variety of data from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System to look for correlations between health risk factors.
