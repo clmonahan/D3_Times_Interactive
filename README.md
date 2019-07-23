@@ -3,7 +3,7 @@
 ![](https://github.com/clmonahan/dynamic-poverty-chart/blob/master/newsreel.gif)
 
 ## Background
-Analyze the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings about the health risks facing particular demographics. Sift through information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
+Use data from the US Census Bureau and the Behavioral Risk Factor Surveillance System to analyze the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand findings about the health risks facing particular demographics. 
 
 The data set is based on 2014 ACS 1-year estimates: https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml, which includes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
 
