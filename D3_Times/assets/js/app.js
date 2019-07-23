@@ -185,8 +185,9 @@ function updateYToolTip(chosenYAxis, circlesGroup) {
 
 
 // Load csv file
-d3.csv('/assets/data/data.csv').then(function(healthData) {
-
+d3.csv('assets/data/data.csv', function(err, healthData) {
+    if (err) throw err;
+    
     // parse data & make numbers integers
     healthData.forEach(function(data) {
         data.poverty = +data.poverty;
