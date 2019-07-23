@@ -34,7 +34,7 @@ The graph should be interactive so that the user may select any of the three var
 * At a lower level, the data needed some cleaning up before it could be used successfully.
 
 ## Conclusions
-There appears to be a negative correlation between poverty levels the percentage of the population with healthcare coverage. 
+There appears to be a negative correlation between poverty levels and the percentage of the population with healthcare coverage. 
 <br><br>It also appears that people living in states with lower income levels are more likely to be obese and to smoke. 
 <br><br>
 States with a younger population have lower rates of smokers, which is not surprising given that there is a nationwide ban on smoking under the age of 18. 
