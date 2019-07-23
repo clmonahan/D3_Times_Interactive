@@ -41,4 +41,5 @@ States with a younger population have lower rates of smokers, which is not surpr
 <br><br>Similarly, states with a young population are less likely to have high rates of healthcare coverage given that many states provide healthcare to adults above a certain age.
 These two correlations show how impactful government regulations can be on the well-being of citizens.
 <br><br>
+![](https://github.com/clmonahan/dynamic-poverty-chart/blob/master/D3_Times/obesity-v-age.png)<br>
 The relationship between age and obesity is less clear, and it is possible that states with obese adults are more likely to also be states with obese children. 
