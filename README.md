@@ -1,8 +1,6 @@
 # Data Journalism & D3: Dynamic Poverty Chart
 
-![]
-
-(https://github.com/clmonahan/dynamic-poverty-chart/blob/master/newsreel.gif)
+![](https://github.com/clmonahan/dynamic-poverty-chart/blob/master/newsreel.gif)
 
 ## Background
 Analyze the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings about the health risks facing particular demographics. Sift through information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
